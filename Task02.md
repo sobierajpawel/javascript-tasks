@@ -36,10 +36,9 @@
                             </div>
                             <div class="text-center">
                                 <button type="button" class="btn btn-primary mx-1" onclick="add()">+</button>
-                                <button type="button" class="btn btn-primary mx-1" onclick="calculate('-')">-</button>
-                                <button type="button" class="btn btn-primary mx-1"
-                                    onclick="calculate('*')">&times;</button>
-                                <button type="button" class="btn btn-primary mx-1" onclick="calculate('/')">÷</button>
+                                <button type="button" class="btn btn-primary mx-1">-</button>
+                                <button type="button" class="btn btn-primary mx-1">&times;</button>
+                                <button type="button" class="btn btn-primary mx-1">÷</button>
                             </div>
                         </form>
                         <div class="mt-3" id="result"></div>
