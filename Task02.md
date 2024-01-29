@@ -1,6 +1,6 @@
 # Kalkulator w JS
 
-1. Napisz kod w JS, który będzie obsługiwał operacje odejmowania, mnożenia, dzielenia w kalkulatorze.
+1. Napisz kod w JS, który będzie obsługiwał operacje dodawania, odejmowania, mnożenia, dzielenia w kalkulatorze.
 
 2.  Napisz drugą wersję kalkulatora z wykorzystaniem tylko jednej funkcji, która jako parametr przyjmuje znaki dodawania, odejmowania, mnożenia, dzielenia.
 
