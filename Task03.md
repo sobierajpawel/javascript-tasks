@@ -1,7 +1,8 @@
 # Walidacja formularza
 
 1. Dopisz funkcje walidujące pola `Nazwisko` oraz `Adres email`
-2. Nazwisko powinno być wypełnione oraz powinno rozpoczynać się z dużej litery - w przypadku negatywnej walidacji pod polem
+2. Imię powinno zostać wypełnione.
+3. Nazwisko powinno być wypełnione oraz powinno rozpoczynać się z dużej litery - w przypadku negatywnej walidacji pod polem
 powinnien pojawić się komunikat o błędzie walidacji.
 4. Email powinien być wypełniony oraz zawierać znak `@`- w przypadku negatywnej walidacji pod polem
 powinnien pojawić się komunikat o błędzie walidacji.
