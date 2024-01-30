@@ -1,7 +1,7 @@
 # Walidacja formularza
 
 1. Napisz walidację do formularza - może być ona podzielona na mniejsze funkcje lub napisana w ramach jednej funkcji.
-2. Imię powinno zostać wypełnione.
+2. Imię powinno zostać wypełnione - w przypadku negatywnej walidacji pod polem powinnien pojawić się komunikat o błędzie walidacji.
 3. Nazwisko powinno być wypełnione oraz powinno rozpoczynać się z dużej litery - w przypadku negatywnej walidacji pod polem
 powinnien pojawić się komunikat o błędzie walidacji.
 4. Email powinien być wypełniony oraz zawierać znak `@`- w przypadku negatywnej walidacji pod polem
