@@ -47,28 +47,5 @@ powinnien pojawić się komunikat o błędzie walidacji.
         </form>
     </div>
 </body>
-<script>
-    validateForm = () => {
-
-        let validationUser = validateFirstNameInput();
-
-        if (validationUser === false){
-            let errorElem = document.getElementById("userErrorMsg");
-            errorElem.innerHTML = "Błędna walidacja";
-            return;
-        }
-
-        alert('formularz zwalidowano');
-    }
-
-    function validateFirstNameInput() {
-        const username = document.getElementById("firstName").value;
-        if (username == null || username.length < 4) {
-            return false;
-        }
-        return true;
-    }
-</script>
-
 </html>
 ```
