@@ -4,6 +4,8 @@
 
 2. Dodaj każde nowe zadanie z innym kolorem tła.
 
+3. Jeżeli użytkownik nie wprowadzi tytułu zadania wyświetl komunikat o błędzie.
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
