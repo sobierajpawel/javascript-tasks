@@ -2,6 +2,8 @@
 
 1. Stwórz interaktywną listę zadań, gdzie użytkownicy będą mogli dodawać oraz usuwać istniejące zadania.
 
+2. Dodaj każde nowe zadanie z innym kolorem tła.
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
