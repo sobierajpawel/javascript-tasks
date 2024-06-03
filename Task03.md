@@ -15,9 +15,9 @@
   <div class="container mt-5">
     <h1 class="text-center">To-Do List</h1>
     <div class="input-group mb-3">
-      <input type="text" class="form-control" id="taskInput" placeholder="Add a new task">
+      <input type="text" class="form-control" id="taskInput" placeholder="Dodaj nowe zadanie">
       <div class="input-group-append">
-        <button class="btn btn-primary" id="addTaskBtn">Add Task</button>
+        <button class="btn btn-primary" id="addTaskBtn">Dodaj zadanie</button>
       </div>
     </div>
     <ul class="list-group" id="taskList"></ul>
